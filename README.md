@@ -1,5 +1,7 @@
 # STHLMAID
 
+## Site is live: [STHLMAID](https://www.sthlmaid.se/)
+
 ## Description
 
 This repository contains the website created for the STHLMAID Charity Concert, a non-profit event held at Trädgården on May 30th, 2024. The concert featured a diverse lineup of artists, including Thomas Stenström, Miriam Bryant, Petter, Daniel Adams-Ray, and many others. All proceeds from the event were donated to the World Food Programme and Plan International.
